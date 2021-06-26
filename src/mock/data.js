@@ -35,7 +35,7 @@ export const aboutData = {
   You may notice that most of my projects are in line with my interest and pursuits. One thing I love 
   about software engineering is it's flexibility and ability to add value in any relevant fields. Because of this,
   I am genuinely happy and thankful to be in this field where they call "Computer Science".  `,
-  resume: 'https://drive.google.com/file/d/1pRFT8SAlX0ZNlDI43qt-uHEHKT4jTilF/view', // if no resume, the button will not show up
+  resume: 'https://docs.google.com/document/d/1CzikEOydJLc7g3Ix2C_srcnz-8xY-J0BYC8AVMKjHCI/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
